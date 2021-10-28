@@ -4,4 +4,4 @@ My personal solutions for the projects given in the Mathematical version of the 
 
 <b><p style="text-align:center">References</p></b>
 
-1. Baudier, F., Bonito, A. and Hielsberg, M., "project title here", Mathematical Algorithms and their Implementations (MATH-679), Fall 2020.
+1. Baudier, F., Bonito, A. and Hielsberg, M., Mathematical Algorithms and their Implementations course (MATH-679), Fall 2020.
